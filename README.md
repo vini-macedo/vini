@@ -1,6 +1,6 @@
 Hi my name is Vinicius Macedo
 
-📗 Studyng Masters of Sciences in Data Analytics in Ireland 🇮🇪
+📗 Studying Masters of Sciences in Data Analytics in Ireland 🇮🇪
 
 
 <div align="left">
